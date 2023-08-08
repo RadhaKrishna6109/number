@@ -1,0 +1,10 @@
+body{
+    background-image: radial-gradient(rgb(250, 79, 107),white);
+    margin: 100px 100px 100px 100px;
+    margin: center;
+    border: 2px solid black;
+    background-image: url(https://lh3.googleusercontent.com/61B1AK-VBZf6lnOtUVcm4lDipKALyXMAarOZ2RkXUOHq20H9DyY0a_cAPdg4ACMK58eZaookS0oxclA9H9yUXflXUx5GCiPQOD2boIYVp9bZhTYcTSeFCuqkfNRY2XQ33jIZ6QSq);
+}
+.container{
+    text-align: center;
+}
